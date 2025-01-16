@@ -8,6 +8,6 @@ digitalocean: This spoofs to digitalocean ips.
 
 fivem: This will basicly connect to the fivem server draining its bandwidth you need alot of power for this tho.
 
-voxility: Use port 9874 and you can slam any voxility server.
+voxility: Use port 9874 with randomized tcp flags and you can slam any voxility server.
 
 REQUIREMENTS: You need a spoofed server ofc.
